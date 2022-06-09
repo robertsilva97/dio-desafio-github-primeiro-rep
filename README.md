@@ -19,5 +19,5 @@ Repositório criado para o Desafio de Projeto.
 <hr>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/973278361935814696" width="450px">
+  <img src="https://lanyard.cnrad.dev/api/973278361935814696?theme=dark=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=“Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo.”" width="450px">
 </p>
